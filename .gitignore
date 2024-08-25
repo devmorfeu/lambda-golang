@@ -23,3 +23,10 @@ go.work.sum
 
 # env file
 .env
+/.idea/aws.xml
+/.idea/easycode.ignore
+/.idea/git_toolbox_blame.xml
+/.idea/lambda-golang.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
